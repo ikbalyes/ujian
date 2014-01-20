@@ -1,1 +1,1 @@
-<?php echo "selamat datang" <?
+<?php echo "selamat datang" ?>
